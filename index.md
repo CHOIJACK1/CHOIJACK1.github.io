@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Siyu Cai (Iack, 蔡司宇)**.
+Here is **Siyu Cai (Jack, 蔡司宇)**.
 
 I am a senior student majoring in **Communication Engineering** at HITSZ . Currently, I am working as a research assistant in the **XX Lab** (Provincial Key), advised by [Prof. Ye](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
