@@ -7,15 +7,16 @@ url: https://choijack1.github.io/
 # Owner/author information
 owner:
   name: Siyu Cai
-  avatar: hanlin.jpg
+##  avatar: Sy.jpg
+avatar: <img src="https://CHOIJACK1.github.io/Sy.jpg" class="floatpic" width="360" height="480">
  # bio:
   email: 1401333084@qq.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 
+  twitter: zanwu
   # facebook: caihanlin2002
-  github: 
-  linkedin: 
-  scholar: 
+  github: CHOIJACK1
+  linkedin: siyucai
+  scholar: https://scholar.google.com
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
